@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikshamkothawade" alt="pratikshamkothawade" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript frameworks**
+- 🌱 I’m currently learning **JavaScript frameworks** and how to build Backend for my upcoming projects.
 
-- 👨‍💻 All of my projects are available at [www.github.com/PratikshaKo](www.github.com/PratikshaKo)
+- 👨‍💻 All of my projects are available at [www.github.com/pratikshamkothawade](www.github.com/PratikshaKo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
