@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikshamkothawade" alt="pratikshamkothawade" /></a> </p>
 <h3>About my progress: </h3>
 
-- 🌱 I’m currently learning **JavaScript frameworks** and how to build Backend for my upcoming projects.
+- 🌱 I’m currently learning and exploring different technologies.
 
 - 👨‍💻 All of my projects are available at [www.github.com/pratikshamkothawade](www.github.com/PratikshaKo)
 
