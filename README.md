@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Pratiksha Milind Kothawade.</h1>
-<h3 align="center">A passionate developer from India.</h3><br>
+<h3 align="center">A passionate developer.</h3><br>
 <h3>Profile views:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshamkothawade&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshamkothawade" /> </p>
 <h3>Github Profile Trophy:</h3>
