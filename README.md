@@ -73,7 +73,8 @@ I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive o
   ### 📈 Most Used Languages:
   <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikshamkothawade&show_icons=true&locale=en&layout=compact&theme=radical" alt="Pratiksha's Top Languages" />
-  </p>   
+  </p>      
+  
   ### 🚀 GitHub Stats:
   <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikshamkothawade&show_icons=true&locale=en&theme=radical" alt="Pratiksha's GitHub Stats" />
