@@ -1,4 +1,4 @@
-## Hello, I'm Pratiksha. Happy to see you here! 👋
+ # Hello, I'm Pratiksha. Happy to see you here! 👋
 
 I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive on participating in hackathons and constantly exploring new technologies and innovations. I’m always eager to collaborate on exciting projects and share knowledge. Feel free to reach out or learn more about me here:    
                   
@@ -8,12 +8,12 @@ I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive o
 [![Portfolio Website](https://img.shields.io/badge/-pratikshaKothawade-d800ff?logo=BioLink&logoColor=white&style=For-the-badge)](https://bio.link/pratikshakothawade/)
 
 ## 💻 Technologies & Tools I Work With  
-#### Programming Languages:   
+<!--#### Programming Languages:   -->
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-#### Frontend Development:
+<!--#### Frontend Development:-->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -51,24 +51,19 @@ I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive o
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 -->
-#### Tools and IDEs:  
+<!--#### Tools and IDEs:  -->
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)       
-## 📊 My GitHub Stats
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)     
 
-<details>
-  <summary><b>Click to expand and explore!</b></summary>
-
-  <br>
-
-  
+## 📊 Stats
+  <!--
   ### 👁️ Profile Views:
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=pratikshamkothawade&label=Profile%20views&color=0e75b6&style=flat" alt="Pratiksha's Profile Views" />
-  </p> 
+  </p> -->
 
   ### 📈 Most Used Languages:
   <p align="left">
@@ -84,13 +79,11 @@ I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive o
   <p align="left">    
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshamkothawade&" alt="Pratiksha's Github Streak Stats" />
   </p>   
-
+<!--
   ### 🏆 GitHub Profile Trophy:
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=pratikshamkothawade&theme=algolia" alt="Pratiksha's GitHub Profile Trophy" />
     </a>
   </p>    
-  <br>
-
-</details>
+-->
