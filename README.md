@@ -1,13 +1,14 @@
- # Hello, I'm Pratiksha. Happy to see you here! 👋
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Pratiksha. Happy to see you here!
 
-I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive on participating in hackathons and constantly exploring new technologies and innovations. I’m always eager to collaborate on exciting projects and share knowledge. Feel free to reach out or learn more about me here:    
+I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive on participating in hackathons and constantly exploring new technologies and innovations. I’m always eager to collaborate on exciting projects and share knowledge.    
+<b>Feel free to reach out or learn more about me here:  </b>  
                   
-[![LinkedIn](https://img.shields.io/badge/-PratikshaKothawade-blue?logo=linkedin&logoColor=white&style=For-the-badge)](https://www.linkedin.com/in/pratiksha-kothawade-356508205/)
-[![Instagram](https://img.shields.io/badge/-PratikshaMilindKothawade-ff0074?logo=instagram&logoColor=white&style=For-the-badge)](https://www.instagram.com/pratiksha_milind_kothawade/)
-[![X](https://img.shields.io/badge/-PratikshaK-404040?logo=X&logoColor=white&style=For-the-badge)](https://x.com/_Pratiksha_K/)
-[![Portfolio Website](https://img.shields.io/badge/-pratikshaKothawade-d800ff?logo=BioLink&logoColor=white&style=For-the-badge)](https://bio.link/pratikshakothawade/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=For-the-badge)](https://www.linkedin.com/in/pratiksha-kothawade-356508205/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0074?logo=instagram&logoColor=white&style=For-the-badge)](https://www.instagram.com/pratiksha_milind_kothawade/)
+[![X](https://img.shields.io/badge/-X-404040?logo=X&logoColor=white&style=For-the-badge)](https://x.com/_Pratiksha_K/)
+[![Portfolio Website](https://img.shields.io/badge/-Portfolio-d800ff?logo=BioLink&logoColor=white&style=For-the-badge)](https://bio.link/pratikshakothawade/)
 
-## 💻 Technologies & Tools I Work With  
+## Technologies & Tools I Work With 💻   
 <!--#### Programming Languages:   -->
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -58,32 +59,33 @@ I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive o
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)     
 
-## 📊 Stats
-  <!--
-  ### 👁️ Profile Views:
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=pratikshamkothawade&label=Profile%20views&color=0e75b6&style=flat" alt="Pratiksha's Profile Views" />
-  </p> -->
+## Stats 📊 
 
-  ### 📈 Most Used Languages:
+   - Most Used Languages:
   <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikshamkothawade&show_icons=true&locale=en&layout=compact&theme=radical" alt="Pratiksha's Top Languages" />
   </p>      
   
-  ### 🚀 GitHub Stats:
+   - GitHub Stats:
   <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikshamkothawade&show_icons=true&locale=en&theme=radical" alt="Pratiksha's GitHub Stats" />
   </p>   
 
-  ### 🔥 Streak Stats:
+   - Streak Stats:
   <p align="left">    
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshamkothawade&" alt="Pratiksha's Github Streak Stats" />
   </p>   
 <!--
-  ### 🏆 GitHub Profile Trophy:
+   - GitHub Profile Trophy:
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=pratikshamkothawade&theme=algolia" alt="Pratiksha's GitHub Profile Trophy" />
     </a>
   </p>    
 -->
+
+ <!--
+   - Profile Views:  -->
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=pratikshamkothawade&label=Profile%20Visits&color=0e75b6&style=flat" alt="Pratiksha's Profile Views" />
+  </p> 
