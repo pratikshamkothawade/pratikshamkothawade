@@ -70,19 +70,19 @@ I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive o
   <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikshamkothawade&show_icons=true&locale=en&theme=radical" alt="Pratiksha's GitHub Stats" />
   </p>   
-
+<!--
    - Streak Stats:
   <p align="left">    
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshamkothawade&" alt="Pratiksha's Github Streak Stats" />
   </p>   
-<!--
    - GitHub Profile Trophy:
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=pratikshamkothawade&theme=algolia" alt="Pratiksha's GitHub Profile Trophy" />
     </a>
   </p>    
--->
+  -->
+
 
  <!--
    - Profile Views:  -->
