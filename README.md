@@ -1,7 +1,7 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Pratiksha. Happy to see you here!
 
 I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive on participating in hackathons and constantly exploring new technologies and innovations. I’m always eager to collaborate on exciting projects and share knowledge.    
-<b>Feel free to reach out or learn more about me here:  </b>  
+<b>Feel free to reach out or learn more about me:  </b>  
                   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=For-the-badge)](https://www.linkedin.com/in/pratiksha-kothawade-356508205/)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff0074?logo=instagram&logoColor=white&style=For-the-badge)](https://www.instagram.com/pratiksha_milind_kothawade/)
