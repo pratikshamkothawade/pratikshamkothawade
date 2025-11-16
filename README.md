@@ -5,7 +5,7 @@ I am Pratiksha Kothawade, a passionate developer and tech enthusiast. I thrive o
                   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=For-the-badge)](https://www.linkedin.com/in/pratiksha-kothawade-356508205/)
 [![X](https://img.shields.io/badge/-X-404040?logo=X&logoColor=white&style=For-the-badge)](https://x.com/_Pratiksha_K/)
-[![Portfolio Website](https://img.shields.io/badge/-Portfolio-d800ff?logo=BioLink&logoColor=white&style=For-the-badge)](https://bio.link/pratikshakothawade/)
+[![Portfolio Website](https://img.shields.io/badge/-Portfolio-d800ff?logo=BioLink&logoColor=white&style=For-the-badge)](https://bio.link/pratikshakothawade)
 
 ## Technologies & Tools I Work With 💻   
 <!--#### Programming Languages:   -->
